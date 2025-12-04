@@ -4,7 +4,7 @@ Evaluate the reproducibility of MR cytometry mappings across protocols, and quan
 extract_radiomics.py implements the extraction of radiomics features from metric (ADC and IMPULSED-derived) mappings.
 
 ## Data Preparation
-for each patient case contains 
+for each patient case nii files contains 
 
 ADC
 
